@@ -1,4 +1,4 @@
-tree-counting-and-classification-in-images
+tree-counting-and-classification-in-images 
 ==============================
 proiect bazat pe învățare automată care își propune să detecteze și să clasifice copacii din imagini făcute de drone. 
 
